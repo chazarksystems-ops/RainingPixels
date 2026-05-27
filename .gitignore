@@ -1,0 +1,44 @@
+# RainingPixels — Git ignore
+# Docs + reference implementation seed (no large binaries, no build cruft)
+
+# Rust / Cargo
+/target/
+**/*.rs.bk
+Cargo.lock
+*.pdb
+*.exe
+*.dll
+
+# WGSL / shader build artifacts
+*.spv
+*.spv.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# Temporary / archives (never commit large zips or dumps)
+*.zip
+*.tar.gz
+*.7z
+*.bak
+*.tmp
+artifacts/
+backup/
+depreciated/
+
+# Large media (screenshots, captures — keep small or reference externally)
+*.mp4
+*.mov
+*.png
+*.jpg
+*.gif
+*.exr
+
+# Generated docs or lockfiles that drift
+*.log
