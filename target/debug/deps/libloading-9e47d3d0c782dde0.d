@@ -1,0 +1,11 @@
+C:\Users\cheez\Downloads\antverse_complete_knowledge_base_2026-05-25\antverse\target\debug\deps\libloading-9e47d3d0c782dde0.d: C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\lib.rs C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\changelog.rs C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\mod.rs C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\windows\mod.rs C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\util.rs C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\error.rs C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\safe.rs
+
+C:\Users\cheez\Downloads\antverse_complete_knowledge_base_2026-05-25\antverse\target\debug\deps\liblibloading-9e47d3d0c782dde0.rmeta: C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\lib.rs C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\changelog.rs C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\mod.rs C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\windows\mod.rs C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\util.rs C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\error.rs C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\safe.rs
+
+C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\lib.rs:
+C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\changelog.rs:
+C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\mod.rs:
+C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\os\windows\mod.rs:
+C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\util.rs:
+C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\error.rs:
+C:\Users\cheez\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libloading-0.7.4\src\safe.rs:

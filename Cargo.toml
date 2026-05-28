@@ -1,0 +1,13 @@
+[package]
+name = "antverse"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wgpu = "0.19"
+winit = "0.29"
+pollster = "0.3"
+bytemuck = { version = "1.15", features = ["derive"] }
+
+# Phase 0 keeps the dependency surface minimal per 06_DEPENDENCIES_AND_REPOS/wgpu_winit.md.
+# Additional crates (rand, image, etc.) will be evaluated only when a concrete need is documented.
